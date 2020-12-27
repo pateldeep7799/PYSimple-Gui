@@ -61,7 +61,7 @@ window.close()
 
 When you save this code in a Python script and run it, you will see a simple window pop up where you can click on a button to call the `update` function as many times as you want (note the `while True` loop in the code for this infinite loop action) and generate a random integer between 1 and 99.
 
-![genrandom](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/GenRandom.gif)
+![genrandom](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/GenRandom.gif)
 
 Although this is a very simple code, it features,
 
@@ -77,7 +77,7 @@ We can essentially follow the same path and add more layers of layout, events, l
 
 Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
 
-![fontupdate](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/FontUpdate.gif)
+![fontupdate](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/FontUpdate.gif)
 
 This app gets you familiar with other widgets available,
 
@@ -96,29 +96,29 @@ python SimpleDataFrame.py
 ### Input file
 At the start, it will ask you for a dataset file (a CSV)
 
-![input](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/SimpleDataFrame-0.PNG)
+![input](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-0.PNG)
 
 ### File browser
 When you click on the 'Browse' button, it will show a file browser dialog first. Make sure you select the correct dataset for this demo from under the `data` directory.
 
-![browser](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/SimpleDataFrame-1.PNG)
+![browser](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-1.PNG)
 
 ### Prompts
 After you select the `cars.csv`, you will see other prompts popping up,
 
-![prompts](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/SimpleDataFrame-6.png)
+![prompts](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-6.png)
 ### Dataset
 If you click 'Yes' on that last prompt, you will see the dataset that was read in a new window,
 
-![data](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-5.PNG)
+![data](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-5.PNG)
 ### Descriptive stats
 After you close that window, a new popup will ask if you want to see the descriptive statistics about this dataset. If you click 'Yes', then you will see something like this,
 
-![stat](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/SimpleDataFrame-7.PNG)
+![stat](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-7.PNG)
 ### A plot
 After you close that window, another popup will ask if you want to see a sample plot. If you click 'Yes', then you will see something like this,
 
-![plot](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/SimpleDataFrame-8.PNG)
+![plot](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/SimpleDataFrame-8.PNG)
 ### Play with the notebooks if you like
 If you want to experiment with the code, you can look at the Notebooks and play with them.
 
@@ -128,7 +128,7 @@ If you want to experiment with the code, you can look at the Notebooks and play 
 
 Generate as many random scatter plots as you wish.
 
-![drawrandom](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/DrawRandom.gif)
+![drawrandom](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/DrawRandom.gif)
 
 ---
 
@@ -136,7 +136,7 @@ Generate as many random scatter plots as you wish.
 
 A simple 2nd degree polynomial fitting app wher you can adjust the noise level of the randomly generated data.
 
-![polyfit](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/PolyFitting.gif)
+![polyfit](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/PolyFitting.gif)
 
 ---
 
@@ -144,7 +144,7 @@ A simple 2nd degree polynomial fitting app wher you can adjust the noise level o
 
 We build a simple app which lets you load the [Pima Indians diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database) dataset and fit a Random Forest model to this data using Scikit-learn in the background.
 
-![pima](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/blob/main/images/Pima-Prediction.gif)
+![pima](https://raw.githubusercontent.com/pateldeep7799/PYSimple-Gui/main/images/Pima-Prediction.gif)
 
 ---
 
